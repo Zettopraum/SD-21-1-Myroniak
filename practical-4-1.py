@@ -16,3 +16,5 @@ def prime_num_generator():
 generator = prime_num_generator()
 for _ in range(10):
     print(next(generator))
+    print(next(generator))
+    # для змін гітхабу
