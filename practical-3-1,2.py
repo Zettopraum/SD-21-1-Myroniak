@@ -11,3 +11,5 @@ for a in range(1, 11):
     for b in range(1, 11):
         result= a * b
         print(f'{a}x{b}={result}')
+        print(i, d, s) 
+# зміни для гіт хабу
