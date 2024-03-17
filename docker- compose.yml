@@ -1,0 +1,8 @@
+version: '3.8'
+
+services:
+  your_service_name:
+    build: .
+    volumes:
+      - ./logs:/app/logs
+      
